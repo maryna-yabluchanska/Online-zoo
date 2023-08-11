@@ -110,7 +110,7 @@ li {
 }
 
 .banner {
-    background-image: url(../../assets/images/GiantPanda.jpg);
+    background-image: url(assets/images/GiantPanda.jpg);
     background-size: cover;
     background-position: center bottom;
     height: 700px;
@@ -241,7 +241,7 @@ li {
     position: absolute;
     top: -128px;
     right: 0;
-    background-image: url(../../assets/images/flower_foto1.png);
+    background-image: url(assets/images/flower_foto1.png);
     background-repeat: no-repeat;
     z-index: -1;
 }
@@ -252,7 +252,7 @@ li {
     position: absolute;
     bottom: -313px;
     right: 0;
-    background-image: url(../../assets/images/leav_foto.png);
+    background-image: url(assets/images/leav_foto.png);
     background-repeat: no-repeat;
     z-index: -1;
     background-size: contain;
@@ -383,21 +383,21 @@ li {
 .btn-slider-prev {
     left: 0;
     transform: translateX(calc(-100% - 4px));
-    background: url(../../assets/icons/arrow-back.svg) center center no-repeat, linear-gradient(113.96deg, #F9804B 1.49%, #FE9013 101.44%);
+    background: url(assets/icons/arrow-back.svg) center center no-repeat, linear-gradient(113.96deg, #F9804B 1.49%, #FE9013 101.44%);
 }
 
 .btn-slider-next {
     right: 0;
     transform: translateX(calc(100% + 4px));
-    background: url(../../assets/icons/arrow.svg) center center no-repeat, linear-gradient(113.96deg, #F9804B 1.49%, #FE9013 101.44%);
+    background: url(assets/icons/arrow.svg) center center no-repeat, linear-gradient(113.96deg, #F9804B 1.49%, #FE9013 101.44%);
 }
 
 .btn-slider-prev:focus {
-    background: url(../../assets/icons/arrow-back.svg) center center no-repeat, #4B9200;
+    background: url(assets/icons/arrow-back.svg) center center no-repeat, #4B9200;
 }
 
 .btn-slider-next:focus {
-    background: url(../../assets/icons/arrow.svg) center center no-repeat, #4B9200;
+    background: url(assets/icons/arrow.svg) center center no-repeat, #4B9200;
 }
 
 .pets-section .btn {
@@ -408,7 +408,7 @@ li {
     position: absolute;
     bottom: 0;
     left: 0;
-    background-image: url(../../assets/images/palm_foto.png);
+    background-image: url(assets/images/palm_foto.png);
     background-size: cover;
     background-position: center center;
     overflow: hidden;
@@ -421,7 +421,7 @@ li {
     position: absolute;
     bottom: 0;
     right: 0;
-    background-image: url(../../assets/images/strelitzia.png);
+    background-image: url(assets/images/strelitzia.png);
     background-size: cover;
     background-position: center center;
     overflow: hidden;
@@ -527,7 +527,7 @@ li {
     height: 37px;
     right: -101px;
     top: 61px;
-    background: url("../../assets/images/Vector.png");
+    background: url("assets/images/Vector.png");
     transform: translateZ(-1px);
 }
 
@@ -1020,7 +1020,7 @@ footer a {
         height: 17px;
         left: 10px;
         top: 19px;
-        background-image: url(../../assets/icons/bamboo.svg);
+        background-image: url(assets/icons/bamboo.svg);
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -1330,7 +1330,7 @@ footer a {
     .palm-decoration {
         width: 194px;
         height: 202px;
-        background-image: url(../../assets/images/palm_foto-small.png);
+        background-image: url(assets/images/palm_foto-small.png);
     }
 
     .pick {
@@ -1419,7 +1419,7 @@ footer a {
 
     .flower-decoration {
         display: block;
-        background: url("../../assets/images/flower_foto-640.png");
+        background: url("assets/images/flower_foto-640.png");
         width: 132px;
         height: 484px;
         top: -75px;
@@ -1490,7 +1490,7 @@ footer a {
     }
 
     .how-works-step:after {
-        background: url("../../assets/icons/arrow.png");
+        background: url("assets/icons/arrow.png");
         width: 89px;
         height: 29px;
         right: -58px;
@@ -1547,14 +1547,14 @@ footer a {
     }
 
     .leave-decoration {
-        background: url("../../assets/images/leav_foto-640.png");
+        background: url("assets/images/leav_foto-640.png");
         width: 116px;
         height: 204px;
         bottom: -149px;
     }
 
     .palm-decoration {
-        background: url("../../assets/images/palm_foto-small2.png");
+        background: url("assets/images/palm_foto-small2.png");
         width: 134px;
         height: 202px;
     }
@@ -1719,7 +1719,7 @@ footer a {
     }
 
     .palm-decoration {
-        background-image: url("../../assets/images/palm_foto-320.png");
+        background-image: url("assets/images/palm_foto-320.png");
         width: 58px;
         height: 72px;
     }
@@ -1780,7 +1780,7 @@ footer a {
     }
 
     .leave-decoration {
-        background: url("../../assets/images/leav_foto-320.png");
+        background: url("assets/images/leav_foto-320.png");
         width: 51px;
         height: 94px;
         bottom: -90px;
@@ -1788,7 +1788,7 @@ footer a {
 
     .flower-decoration {
         top: -66px;
-        background: url("../../assets/images/flower_foto-320.png");
+        background: url("assets/images/flower_foto-320.png");
         width: 35px;
         height: 225px;
     }

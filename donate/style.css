@@ -1,5 +1,5 @@
 .banner-inner {
-    background-image: url("../../assets/images/panda_bg.jpg");
+    background-image: url("../assets/images/panda_bg.jpg");
     background-size: cover;
     background-position: center center;
     position: relative;
@@ -353,7 +353,7 @@
 @media (min-width: 1000px) and (max-width: 1599px) {
     .banner-inner {
         height: 390px;
-        background-image: url("../../assets/images/panda_bg-1000.jpg");
+        background-image: url("../assets/images/panda_bg-1000.jpg");
     }
 
     .pick .wrapper-text h2 {
@@ -433,7 +433,7 @@
     .banner-inner {
         height: 335px;
         margin-top: 34px;
-        background-image: url("../../assets/images/panda_bg-640.jpg");
+        background-image: url("../assets/images/panda_bg-640.jpg");
     }
 
     .pick .wrapper-text h2 {
@@ -469,7 +469,7 @@
     }
 
     .banner-inner {
-        background-image: url(../../assets/images/panda_bg-320.jpg);
+        background-image: url(../assets/images/panda_bg-320.jpg);
         height: 187px;
         margin-top: 34px;
     }
